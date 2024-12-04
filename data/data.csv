@@ -1,0 +1,9 @@
+name,radius,semiMajorAxis,eccentricity,rotationSpeed,orbitSpeed,imagePath
+Mercury,20,1404,0.205,6.14,0.1,file:earth/mercury.jpg
+Venus,50,2592,0.007,-1.48,0.08,file:earth/venus.jpg
+Earth,53,3600,0.017,15.0,0.05,file:earth/earth-d.jpg
+Mars,28,5472,0.093,14.6,0.04,file:earth/mars.jpg
+Jupiter,110,10000,0.048,36.0,0.02,file:earth/jupiter.jpg
+Saturn,91,17000,0.056,32.0,0.01,file:earth/saturn.jpg
+Uranus,40,28710,0.046,-16.5,0.005,file:earth/uranus.jpg
+Neptune,38,44950,0.010,20.0,0.003,file:earth/neptune.jpg
